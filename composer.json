@@ -1,0 +1,19 @@
+{
+  "name": "oyjz/HiAuth",
+  "description": "Hi Auth",
+  "authors": [
+    {
+      "name": "Jin",
+      "email": "hi@oyjz.cn"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "HiAuth\\": "src"
+    }
+  },
+  "homepage": "http://www.oyjz.cn/",
+  "license": "MIT"
+}
